@@ -1,6 +1,6 @@
 # test_my_module.py
-import sys
-sys.path.append('.\srcode')
+
+
 from sri_dev_module import   add, subtract
 
 

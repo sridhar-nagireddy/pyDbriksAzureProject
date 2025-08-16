@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="Added NoteBook">
+    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="try-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runmytests.py" beforeDir="false" afterPath="$PROJECT_DIR$/runmytests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcode/sri_dev_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/sri_dev_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sritests/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sritests/test_sri_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_sri_script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
       <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject" />
       <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject\srcode" />
       <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject\sritests" />
     </key>
@@ -176,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755341406531</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="try-2">
+      <option name="closed" value="true" />
+      <created>1755342491082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755342491082</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +196,7 @@
     <MESSAGE value="add junit xmls" />
     <MESSAGE value="using python file to runmytests" />
     <MESSAGE value="Added NoteBook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added NoteBook" />
+    <MESSAGE value="try-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="try-2" />
   </component>
 </project>
