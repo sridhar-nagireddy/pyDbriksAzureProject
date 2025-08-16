@@ -1,6 +1,4 @@
 # test_my_module.py
-
-
 from sri_dev_module import   add, subtract
 
 
