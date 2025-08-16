@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="using python file to runmytests">
+    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="Added NoteBook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runmytests.py" beforeDir="false" afterPath="$PROJECT_DIR$/runmytests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +40,14 @@
     "Python.runmytests.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/44.44_PythonProjects/pyDbriksAzureProject"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject\srcode" />
       <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject\sritests" />
@@ -163,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755339624628</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added NoteBook">
+      <option name="closed" value="true" />
+      <created>1755341406531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755341406531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +184,7 @@
     <MESSAGE value="run pytests from main.py" />
     <MESSAGE value="add junit xmls" />
     <MESSAGE value="using python file to runmytests" />
-    <option name="LAST_COMMIT_MESSAGE" value="using python file to runmytests" />
+    <MESSAGE value="Added NoteBook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added NoteBook" />
   </component>
 </project>
