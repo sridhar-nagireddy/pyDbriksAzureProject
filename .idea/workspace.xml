@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="add junit xmls">
-      <change afterPath="$PROJECT_DIR$/runmytests.py" afterDir="false" />
+    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="using python file to runmytests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,13 +155,22 @@
       <option name="project" value="LOCAL" />
       <updated>1755338290510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="using python file to runmytests">
+      <option name="closed" value="true" />
+      <created>1755339624628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755339624628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="run pytests from main.py" />
     <MESSAGE value="add junit xmls" />
-    <option name="LAST_COMMIT_MESSAGE" value="add junit xmls" />
+    <MESSAGE value="using python file to runmytests" />
+    <option name="LAST_COMMIT_MESSAGE" value="using python file to runmytests" />
   </component>
 </project>
