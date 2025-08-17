@@ -7,5 +7,6 @@ def test_usingArgParser():
     args = parser.parse_args()
     param_value = args.filestogagelocation
     assert param_value == "stogrageaccountName"
-    print('f passed from databricks is '+{param_value})
+    print(f"passed from databricks is : {param_value}")
+
     assert 3 == 4
