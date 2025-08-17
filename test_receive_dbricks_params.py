@@ -1,3 +1,4 @@
 def test_read_passed_dbricks_parameters(my_filestoreLoc):
     print(f"My Param- 1: {my_filestoreLoc}")
+    assert my_filestoreLoc == "stogrageaccountName"
     # Your test logic
