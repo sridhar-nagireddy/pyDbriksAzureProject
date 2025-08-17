@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="try-5 - Reporting">
-      <change afterPath="$PROJECT_DIR$/test_receive_dbricks_params.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="try-5 - Reporting with dblocation read">
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runmytests.py" beforeDir="false" afterPath="$PROJECT_DIR$/runmytests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_Can_Read_Sales.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Can_Read_Sales.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_receive_dbricks_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_receive_dbricks_params.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_receive_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_receive_params.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755417289652</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="try-5 - Reporting with dblocation read">
+      <option name="closed" value="true" />
+      <created>1755422294255</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755422294255</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,6 +282,7 @@
     <MESSAGE value="try-3 - trying to access sales" />
     <MESSAGE value="try-4 - trying to access sales" />
     <MESSAGE value="try-5 - Reporting" />
-    <option name="LAST_COMMIT_MESSAGE" value="try-5 - Reporting" />
+    <MESSAGE value="try-5 - Reporting with dblocation read" />
+    <option name="LAST_COMMIT_MESSAGE" value="try-5 - Reporting with dblocation read" />
   </component>
 </project>

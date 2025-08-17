@@ -22,6 +22,6 @@ def my_param1(request):
 def my_param2(request):
     return request.config.getoption("--param2")
 
-pytest.fixture
+@pytest.fixture
 def my_filestoreLoc(request):
     return request.config.getoption("--filestogagelocation")
