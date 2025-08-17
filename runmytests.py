@@ -14,7 +14,7 @@ sys.dont_write_bytecode = True
 
 pytest_args  = [".",  # indicates the directory which needs to be ran
                 "-rp",
-                # "no:cacheprovider",
+                "no:cacheprovider",
                 "-v",
                 "--html=reports/sri_report.html", # report generation
                 # "--html=reports/sri_self_contained_report.html --self-contained-html"
