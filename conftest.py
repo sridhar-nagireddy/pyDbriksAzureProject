@@ -1,13 +1,6 @@
 # conftest.py
 import pytest
-# from pyspark.sql import SparkSession
-#
-#
-# @pytest.fixture(scope='session')
-# def spark():
-#     return SparkSession.builder \
-#         .appName('sri_test_session').getOrCreate()
-#
+
 def pytest_addoption(parser):
     print(f'is this pyTest Entry point?"')
     parser.addoption("--param1", action="store", default="defVal_param1", help="My custom parameter")

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="using ArgParser">
+    <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="using ArgParser try to print2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Can_Read_Sales.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Can_Read_Sales.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_receive_params2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_receive_params2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -315,7 +317,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755424754220</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="using ArgParser try to print">
+      <option name="closed" value="true" />
+      <created>1755426008565</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755426008565</updated>
+    </task>
+    <task id="LOCAL-00020" summary="using ArgParser try to print2">
+      <option name="closed" value="true" />
+      <created>1755426075895</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1755426075895</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -336,7 +354,9 @@
     <MESSAGE value="no cacheprovider commented" />
     <MESSAGE value="added assertion for storage location" />
     <MESSAGE value="using ArgParser" />
-    <option name="LAST_COMMIT_MESSAGE" value="using ArgParser" />
+    <MESSAGE value="using ArgParser try to print" />
+    <MESSAGE value="using ArgParser try to print2" />
+    <option name="LAST_COMMIT_MESSAGE" value="using ArgParser try to print2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
