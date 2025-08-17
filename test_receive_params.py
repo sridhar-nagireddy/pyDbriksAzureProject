@@ -1,5 +1,5 @@
 # In your test file
-def test_example(my_param, another_arg):
-    print(f"My Param: {my_param}")
-    print(f"Another Arg: {another_arg}")
+def read_passed_parameters(my_param1, my_param2):
+    print(f"My Param- 1: {my_param1}")
+    print(f"Another Arg-2: {my_param2}")
     # Your test logic

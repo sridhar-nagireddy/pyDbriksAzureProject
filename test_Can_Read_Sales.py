@@ -1,12 +1,4 @@
-# import pytest
-# from pyspark.sql import SparkSession
-#
-#
-# @pytest.fixture(scope='session')
-# def spark():
-#     return SparkSession.builder \
-#         .appName('sri_test_session').getOrCreate()
-#
+
 #
 # @pytest.mark.sales
 # def test_read_csv_into_dataframe(spark: SparkSession, tmp_path):

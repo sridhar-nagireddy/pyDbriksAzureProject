@@ -16,7 +16,9 @@ pytest_args  = [".",  # indicates the directory which needs to be ran
                 "-rp",
                 # "no:cacheprovider",
                 "-v",
-                "--html=reports/sri_report.html"]
+                "--html=reports/sri_report.html", # report generation
+                # "--html=reports/sri_self_contained_report.html --self-contained-html"
+                ]
 ret_code=pytest.main(pytest_args)
 
 assert ret_code==0, "Pytest failed"
