@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="424c92e0-7998-4857-bce6-58cbc6325e64" name="Changes" comment="try-4 - trying to access sales">
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_receive_params.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runmytests.py" beforeDir="false" afterPath="$PROJECT_DIR$/runmytests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_Can_Read_Sales.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Can_Read_Sales.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_sri_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_sri_script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="31ML9FyoKaaTgizqdJJ6FZV6IrO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_receive_params.test_example.executor": "Run",
     "Python tests.Python tests for test_sri_script.test_add.executor": "Run",
     "Python tests.Python tests in test_Can_Read_Sales.py.executor": "Run",
     "Python.main.executor": "Run",
@@ -55,7 +60,7 @@
       <recent name="E:\44.44_PythonProjects\pyDbriksAzureProject\sritests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_Can_Read_Sales.py">
+  <component name="RunManager" selected="Python.runmytests">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pyDbriksAzureProject" />
       <option name="ENV_FILES" value="" />
@@ -100,6 +105,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_receive_params.test_example" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyDbriksAzureProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_receive_params.test_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_sri_script.test_add" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pyDbriksAzureProject" />
       <option name="ENV_FILES" value="" />
@@ -132,9 +152,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_Can_Read_Sales.py" />
         <item itemvalue="Python.runmytests" />
         <item itemvalue="Python tests.Python tests for test_sri_script.test_add" />
+        <item itemvalue="Python tests.Python tests for test_receive_params.test_example" />
+        <item itemvalue="Python tests.Python tests in test_Can_Read_Sales.py" />
       </list>
     </recent_temporary>
   </component>
